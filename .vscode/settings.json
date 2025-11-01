@@ -1,0 +1,20 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "python-envs.pythonProjects": [],
+
+  // Python formatter
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": ".venv\\Scripts\\black.exe",
+
+  // Format automatically on save
+  "editor.formatOnSave": true,
+
+  // Linting (optional but recommended)
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+
+  // Use the virtual environment in this workspace
+  "python.pythonPath": ".venv\\Scripts\\python.exe"
+}
