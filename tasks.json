@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Check program is running correctly",
+        "done": false
+    },
+    {
+        "task": "Check json file saves after closing terminal and IED",
+        "done": false
+    },
+    {
+        "task": "check json file still working",
+        "done": false
+    }
+]
