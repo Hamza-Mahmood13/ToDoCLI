@@ -1,4 +1,4 @@
-#ToDoCLI
+#TaskManagerCLI
 
 A simple and robust command line To-Do List application built using Python. This project demonstrates core Python skills, clean code structure, file persistance through JSON, and error handling.
 
@@ -22,8 +22,8 @@ How to run:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Hamza-Mahmood13/ToDoCLI
-   cd ToDoCLI
+   git clone https://github.com/Hamza-Mahmood13/TaskManagerCLI
+   cd TaskManagerCLI
    python -m venv .venv
    .venv\Scripts\activate
    python main.py
