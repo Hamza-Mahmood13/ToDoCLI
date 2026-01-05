@@ -21,10 +21,11 @@ Technologies used:
 How to run:
 
 1. Clone the repository
-    ```bash
-    git clone https://github.com/Hamza-Mahmood13/ToDoCLI
-    cd ToDoCLI
-    python -m venv .venv
-    .venv\Scripts\activate
-    python test.py
-    
+   ```bash
+   git clone https://github.com/Hamza-Mahmood13/ToDoCLI
+   cd ToDoCLI
+   python -m venv .venv
+   .venv\Scripts\activate
+   python main.py
+
+   ```
